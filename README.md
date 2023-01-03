@@ -7,3 +7,5 @@ This repository contains one ipynb file, this file executes many queries through
   4. Doing some analysis on this data
   5. Making connections between MySQL server and the Python code using cursors
   6. Creating connection pools for different users
+
+I've done this project through studing Database Clients course which is part of Meta Database Engineer Professional Certificate on Coursera.
